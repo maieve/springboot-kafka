@@ -1,4 +1,4 @@
-# ios java project
+# kafka example java project
 
 kafka java project
 
