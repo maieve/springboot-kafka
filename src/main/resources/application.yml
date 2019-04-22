@@ -1,0 +1,18 @@
+spring :
+  profiles: dev
+app:
+  kafka: kafka.kafka:9092
+
+---
+spring:
+  application:
+    name: kafka
+server:
+  port: 80
+app   :
+  kafka: 127.0.0.1:9092
+
+custom:
+  logging:
+    path: /var/log/spring-kafka
+    

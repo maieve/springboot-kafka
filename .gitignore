@@ -1,0 +1,23 @@
+.gradle
+/build/
+src/main/resources/static
+
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+bin/
+out/
+logs/
+insomnia-data.json
