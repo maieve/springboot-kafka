@@ -22,7 +22,7 @@ kafka
        
 ## install
 
-`$ https://ms-gitlab-infra-001.hanpda.com/devops/spring-kafka.git
+`$ https://github.com/maieve/springboot-kafka
 
 ## build & run
 
